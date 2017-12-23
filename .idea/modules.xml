@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassManager.iml" filepath="$PROJECT_DIR$/ClassManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBlog-Manager-Controller/MyBlog-Manager-Controller.iml" filepath="$PROJECT_DIR$/MyBlog-Manager-Controller/MyBlog-Manager-Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBlog-Manager-Dao/MyBlog-Manager-Dao.iml" filepath="$PROJECT_DIR$/MyBlog-Manager-Dao/MyBlog-Manager-Dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBlog-Manager-Pojo/MyBlog-Manager-Pojo.iml" filepath="$PROJECT_DIR$/MyBlog-Manager-Pojo/MyBlog-Manager-Pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBlog-Manager-Service/MyBlog-Manager-Service.iml" filepath="$PROJECT_DIR$/MyBlog-Manager-Service/MyBlog-Manager-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBlog-Utils/MyBlog-Utils.iml" filepath="$PROJECT_DIR$/MyBlog-Utils/MyBlog-Utils.iml" />
+    </modules>
+  </component>
+</project>
